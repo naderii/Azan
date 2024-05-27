@@ -1,0 +1,4 @@
+pygame
+python-daemon
+tk
+asterisk-ami
