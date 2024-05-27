@@ -1,5 +1,4 @@
 # azango
-# azango
 
 مقدمه
 
@@ -18,8 +17,8 @@
 
 ابتدا پروژه را از مخزن دانلود یا کلون کنید.
 
-git clone https://github.com/naderii/azango.git
-cd azango
+git clone git@github.com:naderii/Azan.git
+cd Azan
 
 2. تنظیم فایل‌های پروژه
 
